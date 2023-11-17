@@ -1,0 +1,29 @@
+V 000051 55 1146          1695111404293 arc_memory
+(_unit VHDL (ent_memory 0 28 (arc_memory 0 41 ))
+	(_version v98)
+	(_time 1695111404294 2023.09.19 11:16:44)
+	(_source (\./src/memory.vhd\))
+	(_use (std(standard))(ieee(std_logic_1164)))
+	(_code 11111216454741044642554b451745174716131618)
+	(_entity
+		(_time 1695111404278)
+		(_use (std(standard))(ieee(std_logic_1164)))
+	)
+	(_object
+		(_port (_internal A ~extieee.std_logic_1164.STD_LOGIC 0 30 (_entity (_in ))))
+		(_port (_internal RAS ~extieee.std_logic_1164.STD_LOGIC 0 31 (_entity (_in ))))
+		(_port (_internal CAS ~extieee.std_logic_1164.STD_LOGIC 0 32 (_entity (_in ))))
+		(_port (_internal W ~extieee.std_logic_1164.STD_LOGIC 0 33 (_entity (_in ))))
+		(_port (_internal CS ~extieee.std_logic_1164.STD_LOGIC 0 34 (_entity (_in ))))
+		(_port (_internal D ~extieee.std_logic_1164.STD_LOGIC 0 35 (_entity (_out ))))
+		(_process
+			(RAM(_architecture 0 0 43 (_process (_simple)(_target(5))(_sensitivity(0)(1)(2)(3)(4)))))
+		)
+		(_subprogram
+			(_external resolved (ieee std_logic_1164 15))
+		)
+		(_type (_external ~extieee.std_logic_1164.STD_LOGIC (ieee std_logic_1164 STD_LOGIC)))
+	)
+	(_model . arc_memory 1 -1
+	)
+)

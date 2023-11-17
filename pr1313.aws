@@ -1,0 +1,14 @@
+[Version]
+Version=9.1
+[Designs]
+pr1313=.\pr1313.adf
+[Settings]
+Active=pr1313
+[Browser]
+sort=type
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+pr1313=1
